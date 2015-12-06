@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#ffffff</color>
+    <color name="coklat_title">#8B4513</color>
+    <color name="black">#000000</color>
+    <color name="coklat">#2b2303</color>
+    <color name="coklat_tua">#3a3737</color>
+    <color name="biru">#666DF4</color>
+    <color name="abu_tua">#6E6066</color>
+    <color name="abu_tua_banget">#4F3F46</color>
+    <color name="merah_title">#E10000</color>
+    <color name="biru_muda">#00BCE1</color>
+    <color name="transparant">#80000000</color>
+    <color name="abuabu">#C0C0C0</color>
+    <color name="trasparant_coklat">#80000000</color>
+    <color name="merah_maron">#AF1523</color>
+    <color name="abu_abu_gelap">#808080</color>
+    
+    <color name="abu_abu_header">#929292</color>
+    <color name="list_abu_muda">#747474</color>
+    <color name="list_abu_gelap">#5f5d5e</color>
+
+</resources>

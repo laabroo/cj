@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="bottom"
+    android:orientation="horizontal" >
+
+    <LinearLayout
+       android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/abuabu"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            android:id="@+id/buttonPhotos"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="3dp"
+            android:layout_marginLeft="1dp"
+            android:layout_marginRight="3dp"
+            android:layout_marginTop="3dp"
+            android:layout_weight="1"
+            android:background="@drawable/bekron_menu_1"
+            android:src="@drawable/button_photos" />
+
+        <ImageButton
+            android:id="@+id/buttonVideo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="3dp"
+            android:layout_marginLeft="1dp"
+            android:layout_marginRight="3dp"
+            android:layout_marginTop="3dp"
+            android:layout_weight="1"
+            android:background="@drawable/bekron_menu_1"
+            android:src="@drawable/button_videos" />
+
+        <ImageButton
+            android:id="@+id/buttonMusic"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="3dp"
+            android:layout_marginLeft="1dp"
+            android:layout_marginRight="3dp"
+            android:layout_marginTop="3dp"
+            android:layout_weight="1"
+            android:background="@drawable/bekron_menu_1"
+            android:src="@drawable/button_music" />
+
+        <ImageButton
+            android:id="@+id/buttonStore"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="3dp"
+            android:layout_marginLeft="1dp"
+            android:layout_marginRight="3dp"
+            android:layout_marginTop="3dp"
+            android:layout_weight="1"
+            android:background="@drawable/bekron_menu_1"
+            android:src="@drawable/button_store" />
+    </LinearLayout>
+
+</LinearLayout>
